@@ -4,7 +4,7 @@ pydantic==2.11.9
 python-multipart==0.0.31
 itsdangerous==2.2.0
 
-python-socketio==5.14.0
+python-socketio==5.16.2
 python-jose==3.5.0
 cryptography
 bcrypt==5.0.0
@@ -60,14 +60,14 @@ einops==0.8.1
 
 ftfy==6.2.3
 chardet==5.2.0
-pypdf==6.13.0
+pypdf==6.13.3
 fpdf2==2.8.2
 pymdown-extensions==10.21.3
 docx2txt==0.8
 python-pptx==1.0.2
 unstructured==0.18.18
 msoffcrypto-tool==5.4.2
-nltk==3.9.4
+nltk==3.10.0
 Markdown==3.9
 pypandoc==1.15
 pandas==2.2.3
