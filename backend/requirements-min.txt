@@ -46,6 +46,6 @@ langchain-community==0.3.29
 fake-useragent==2.2.0
 
 chromadb==1.5.9
-black==26.3.1
+black==26.5.1
 pydub
 chardet==5.2.0
